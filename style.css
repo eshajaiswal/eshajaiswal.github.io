@@ -1,9 +1,9 @@
 body,html
     { width: 100% ;
-      height: 100%;
+      height:100%;
       font-family: 'Montserrat', sans-serif;
      background-color: #198754;
-     background-image: url(https://static.pexels.com/photos/158471/ibis-bird-red-animals-158471.jpeg
+     background-image: url(https://static.pexels.com/photos/52500/horse-herd-fog-nature-52500.jpeg
 );
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -15,7 +15,7 @@ h1{
 }
 
 .buffer{
-	height: 10rem;
+	height:10rem;
 }
 
 .btn{
